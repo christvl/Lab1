@@ -24,7 +24,7 @@ body{
     width:960px;
     margin:0 auto;
 }
-table {
+#mytable {
     border-style: solid;
     border-width: 2px;
 }
